@@ -10,6 +10,9 @@
 
 ## Visitor Counter
   <img src="https://profile-counter.glitch.me/JamesEU/count.svg" />
+  
 ## GitHub Statistics
+
+
 
 >![JamesEU github stats](https://github-readme-stats.vercel.app/api?username=JamesEU&show_icons=true&hide_border=true)
