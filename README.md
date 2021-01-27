@@ -13,6 +13,10 @@
   
 ## GitHub Statistics
 
+## Develop for FiveM?
+
+https://marketplace.visualstudio.com/items?itemName=JamesUK.FiveM-Lua-Support&ssr=false#overview
+
 
 
 >![JamesEU github stats](https://github-readme-stats.vercel.app/api?username=JamesEU&show_icons=true&hide_border=true)
