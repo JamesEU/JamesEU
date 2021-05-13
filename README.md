@@ -7,7 +7,6 @@
 - Join my [Discord!](https://discord.gg/zrMQpYPJFU)
 - If you want to donate to anything I do! [Donate Here](https://www.buymeacoffee.com/jamesuk)
 - Follow me on Github too if you want!
-- Have a visit of my [site!](https://jamesuk.xyz/)
 
 ## Visitor Counter
   <img src="https://profile-counter.glitch.me/JamesEU/count.svg" />
